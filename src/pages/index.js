@@ -123,6 +123,7 @@ const inter = Inter({ subsets: ['latin'] })
 }*/
 
 export default function BlogHome(){
-  return <div>Mi Ejemplo</div>
+  return <div>Mi Ejemplo de Prueba </div>
 }
+
 
