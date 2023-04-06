@@ -125,3 +125,4 @@ const inter = Inter({ subsets: ['latin'] })
 export default function BlogHome(){
   return <div>Mi Ejemplo</div>
 }
+
